@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @FCROTICH322
-- 👀 I’m interested in virtulization (VDI)| Software development|Networkin|.
+- 👀 I’m interested in virtulization (VDI)| Software development|Networking|GCP.
 - 🌱 I’m currently learning ...Android development|python
 - 💞️ I’m looking to collaborate on ...IT AUTOMATON WITH PHYTHON
-- 📫 How to reach me ...
+- 📫 How to reach me nenorotich3@gmail.com.
 
 <!---
 FCROTICH322/FCROTICH322 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
